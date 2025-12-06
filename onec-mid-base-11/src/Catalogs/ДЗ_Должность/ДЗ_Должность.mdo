@@ -7,14 +7,14 @@
     <listType typeId="772e824b-f4aa-4d2f-b9e1-027b665886d1" valueTypeId="3308bcb9-662f-4137-b736-4d61ba3c92fb"/>
     <managerType typeId="01c860ff-8f99-4f05-82d2-b7cdba1ee9d5" valueTypeId="76c61e92-ba37-406d-ad1b-d9a4a2935c61"/>
   </producedTypes>
-  <name>Должность_ДЗ</name>
+  <name>ДЗ_Должность</name>
   <synonym>
     <key>ru</key>
-    <value>Должность ДЗ</value>
+    <value>Д з должность</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Должность_ДЗ.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Должность_ДЗ.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ДЗ_Должность.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ДЗ_Должность.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

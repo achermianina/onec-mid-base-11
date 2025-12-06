@@ -7,14 +7,14 @@
     <listType typeId="a7509944-ebc0-4db6-b9a3-bab836d43bab" valueTypeId="e84b9b0e-2cc2-4857-b66e-95ed08dd86cb"/>
     <managerType typeId="a6ff287c-10cf-4583-a1ef-f77cd6e2eebf" valueTypeId="614d444c-4c67-41b5-9213-c0c994e13024"/>
   </producedTypes>
-  <name>КонтакныеЛица_ДЗ</name>
+  <name>ДЗ_КонтакноеЛицо</name>
   <synonym>
     <key>ru</key>
-    <value>Контакные лица ДЗ</value>
+    <value>Д з контакное лицо</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.КонтакныеЛица_ДЗ.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.КонтакныеЛица_ДЗ.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ДЗ_КонтакноеЛицо.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ДЗ_КонтакноеЛицо.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -125,7 +125,7 @@
       <value>Должность</value>
     </synonym>
     <type>
-      <types>CatalogRef.Должность_ДЗ</types>
+      <types>CatalogRef.ДЗ_Должность</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
